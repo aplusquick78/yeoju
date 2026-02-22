@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>여주 퀵서비스 | 8222퀵</title>
+    <link>http://yeoju.8222quick.com</link>
+    <description>여주 전지역 24시 퀵서비스, 오토바이퀵, 다마스퀵, 라보퀵, 기업물류 전문</description>
+    <language>ko</language>
+    <lastBuildDate>Sat, 22 Feb 2026 15:00:00 +0900</lastBuildDate>
+    <pubDate>Sat, 22 Feb 2026 15:00:00 +0900</pubDate>
+    <ttl>60</ttl>
+
+    <item>
+      <title>여주 퀵서비스 24시간 빠른 배차 안내</title>
+      <link>http://yeoju.8222quick.com</link>
+      <description><![CDATA[
+        여주 전지역 당일배송, 긴급서류, 소형화물 전문.
+        오토바이퀵·다마스퀵·라보퀵 상시 대기.
+      ]]></description>
+      <pubDate>Sat, 22 Feb 2026 15:00:00 +0900</pubDate>
+      <guid>http://yeoju.8222quick.com#main</guid>
+    </item>
+
+    <item>
+      <title>여주 기업물류·정기배송 상담</title>
+      <link>http://yeoju.8222quick.com</link>
+      <description><![CDATA[
+        여주 기업체 납품, 병원·약국 배송, 공장 긴급물류 전문 퀵서비스.
+      ]]></description>
+      <pubDate>Sat, 22 Feb 2026 14:30:00 +0900</pubDate>
+      <guid>http://yeoju.8222quick.com#business</guid>
+    </item>
+
+    <item>
+      <title>여주 다마스퀵·라보퀵 요금 안내</title>
+      <link>http://yeoju.8222quick.com</link>
+      <description><![CDATA[
+        중량 화물, 박스 다량 배송은 다마스·라보 차량 배차.
+        합리적인 요금과 신속한 운송.
+      ]]></description>
+      <pubDate>Sat, 22 Feb 2026 14:00:00 +0900</pubDate>
+      <guid>http://yeoju.8222quick.com#price</guid>
+    </item>
+
+  </channel>
+</rss>
